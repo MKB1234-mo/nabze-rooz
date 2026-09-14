@@ -1,7 +1,7 @@
 import requests
 
-TOKEN = "bot522634:1dfaab0d-da5a-4b6a-8793-bad5b718ee21"
-CHAT_ID = "11248933"
+TOKEN = 
+CHAT_ID =
 
 def send_news(title, text, source="منبع آزمایشی"):
     message = f"""🚨 نبض روز | خبر فوری
