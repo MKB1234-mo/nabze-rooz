@@ -10,9 +10,9 @@ from urllib.parse import urljoin
 # تنظیمات
 # =========================
 
-TOKEN = "bot522634:35556003-1297-40a7-b819-38ae5f9740b8"
+TOKEN =
 
-CHAT_ID = "11248933"
+CHAT_ID = 
 
 CHANNEL_USERNAME = "@nabzrooz_news"
 
